@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prashaiml
+- 👋 Hi, I’m Prasanthi
 - 👀 I’m interested in AIML
 - 🌱 I’m currently learning AIML through certification course from Talentsprint
 - 💞️ I’m looking to collaborate on ...
